@@ -103,14 +103,15 @@ Run 10: 35.504 seconds
 4096MB Average time: 28.728 seconds
 ----------------------------------
 ```
-
-## resource
+# Improve
+คิดว่าจะรวมเข้ากับ Alzette cryptography 
+# resource
 [The ChaCha family of stream ciphers](https://cr.yp.to/chacha.html)
 https://cr.yp.to/chacha/chacha-20080128.pdf
 https://phase.dev/blog/chacha-and-aes-simplicity-in-cryptography/
 
 
-## chat
+# chat
 
 ไอเดียคุณ “เป็นไปได้เชิงวิจัย” แต่ต้องตั้งความคาดหวังให้ถูกก่อนนะ:
 
