@@ -4,107 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d9429b8438631122",
+        "id": "06e56cdc94e6dec7",
         "type": "tabs",
         "children": [
           {
-            "id": "3d69db2ba6425d70",
+            "id": "a8397214c68bb7b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "เก่งได้ทุกอย่าง -- เมื่อผมปลดล็อก Skill ระดับเทพผ่านหนังสือเรียนฟิสิกส์.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "เก่งได้ทุกอย่าง -- เมื่อผมปลดล็อก Skill ระดับเทพผ่านหนังสือเรียนฟิสิกส์"
-            }
-          },
-          {
-            "id": "f7e1c307e01ee920",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/chacha.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "chacha"
-            }
-          },
-          {
-            "id": "0d5e53bd25cfa51c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chat/road to quant.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "road to quant"
-            }
-          },
-          {
-            "id": "dcc63e5a30db4d63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test"
-            }
-          },
-          {
-            "id": "f5d4f9025669f1ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project_Wireless.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Project_Wireless"
-            }
-          },
-          {
-            "id": "ad3a01299b0bf798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChaCha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ChaCha"
-            }
-          },
-          {
-            "id": "c5aa1177e5dad8c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wireless.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wireless"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7f6e790b12997038",
@@ -254,8 +167,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -279,19 +192,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dcc63e5a30db4d63",
+  "active": "a8397214c68bb7b0",
   "lastOpenFiles": [
-    "Pasted image 20260321231739.png",
-    "chat/road to quant.md",
+    "CCNA/Day 4.md",
     "test.md",
-    "chat",
-    "Wireless.md",
-    "Quant.md",
+    "Pasted image 20260321231739.png",
+    "CCNA/Day 3.md",
+    "CCNA/images/p3.3.png",
+    "finance.md",
     "Excalidraw/chacha.md",
-    "Project_Wireless.md",
     "Excalidraw/cubesat.md",
+    "chat/test.md",
+    "chat/test1.1.png",
+    "chat/road to quant.md",
+    "Book of Proof.md",
     "ChaCha.md",
+    "counting.md",
+    "Project_Wireless.md",
+    "Quant.md",
     "README.md",
+    "CCNA/images/p3.2.png",
+    "CCNA/Intro.md",
+    "CCNA/images/p3.1.png",
+    "CCNA/images",
+    "CCNA",
+    "Wireless.md",
     "เก่งได้ทุกอย่าง -- เมื่อผมปลดล็อก Skill ระดับเทพผ่านหนังสือเรียนฟิสิกส์.md",
     "test/obsidian/readme.md",
     "test/README.md",
