@@ -5,7 +5,7 @@
 **จำเป็นมากครับ** — แต่ไม่ใช่ในแง่ "ต้องเรียน FE เท่านั้น" แต่จำเป็นที่จะต้องมี **foundation ที่แน่น** ก่อน อายุ 20 ถือว่า timing ดีมากครับ เพราะ quant เป็นสาย compounding knowledge — ยิ่งเริ่มเร็ว ยิ่งได้เปรียบ
 
 ---## Breakdown แต่ละ Phase
-![[Pasted image 20260321231739.png]]
+![[test1.1.png]]
 **Phase 1 — Foundation (ทำได้เลยตอนนี้)** คณิตฯ ต้องครบก่อนทุกอย่าง ได้แก่ Calculus (MIT OCW 18.01/18.02), Linear Algebra (Gilbert Strang), Probability & Statistics (Blitzstein's Stats 110 ฟรีบน YouTube) และ Python ขั้น data science จริงๆ คือ Pandas + NumPy + Matplotlib ใช้ Kaggle Notebooks ฝึกได้เลย
 
 **Phase 2 — Finance Core** อ่าน Hull's _Options, Futures & Other Derivatives_ เป็น bible ของ derivatives เรียนรู้ Black-Scholes จนรู้ว่า derive มาจากไหน ควบ CFA L1 concepts (ไม่ต้องสอบก็ได้ แต่อ่านเนื้อหา) และเริ่ม backtest strategy ด้วย Python
