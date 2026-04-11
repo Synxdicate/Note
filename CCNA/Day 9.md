@@ -11,6 +11,9 @@ speed auto และ deplex auto ตั้งเป็น default
 ![[p9.2.png]]
 host กับ switch จะเลือก best ของ speed/duplex เพื่อใช้ได้เต็มที่
 
+hub ใช้ half duplex
+switch ใช้ half/full duplex
+
 ถ้า autonegotiation ปิดอยู่ 
 - จะเลือก **SPEED** ต่ำสุด อย่างมี 10/100/1000 จะเลือก 10
 - Duplex : 
