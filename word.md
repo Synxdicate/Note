@@ -1,0 +1,7 @@
+manner
+correspond
+notwithstanding
+resemblance
+contrary
+vivacity
+pavement

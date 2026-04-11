@@ -19,7 +19,9 @@ type
 `0x0800` IPv4
 
 ## MAC
-physical address 6 bytes อีกชื่อเรียก "burn-in address (BIA)"
+**physical address** 6 bytes อีกชื่อเรียก "burn-in address (BIA)"
+> มีอยู่ใน `show interfaces [int]`
+
 ครึ่งแรก (24 bits) ระบุบริษัทที่จด OUI
 ครึ่งหลัง (24 bits) unique อุปกรณ์
 

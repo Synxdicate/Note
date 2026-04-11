@@ -39,7 +39,7 @@ D ^Ixjt1XEj
 <<< ^88zv1Q4r
 
 ## Element Links
-u9CkYVRD: [[ChaCha#Test]]
+u9CkYVRD: [[Notes/ChaCha#Test]]
 
 %%
 ## Drawing
