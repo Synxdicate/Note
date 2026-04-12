@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a20987f91e3b7fa3",
+        "id": "e823a360bdb1805b",
         "type": "tabs",
         "children": [
           {
-            "id": "d6b89c34f14a7da5",
+            "id": "0b11d0109d890112",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CCNA/Day 11 (Part I).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Day 11 (Part I)"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCNA/Day 11 (Part I).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 11 (Part I)"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCNA/Day 11 (Part I).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 11 (Part I)"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCNA/Day 11 (Part I).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 11 (Part I)"
+              "title": "Outline"
             }
           },
           {
@@ -195,11 +188,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d6b89c34f14a7da5",
+  "active": "0b11d0109d890112",
   "lastOpenFiles": [
-    "CCNA/Day 10.md",
+    "Untitled.base",
+    "CCNA/Day 7.md",
+    "CCNA/CCNA.md",
+    "CCNA/Intro.md",
     "CCNA/Day 11 (Part I).md",
+    "Excalidraw/IPv4 Addressing.md",
+    "Excalidraw/chacha.md",
+    "Excalidraw/cubesat.md",
+    "word.md",
+    "README.md",
     "Untitled.md",
-    "README.md"
+    "CCNA/Day 8.md",
+    "CCNA/Day 9.md",
+    "CCNA/Day 10.md"
   ]
 }
