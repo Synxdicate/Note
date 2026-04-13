@@ -33,7 +33,6 @@ L4 protocol checksum error ใน encap data
 **options**
 0-320 bits
 
-
 MTU(maximum transmission unit)=1500 bytes
 
 # เพิ่มเติม
