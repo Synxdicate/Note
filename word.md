@@ -1,7 +1,17 @@
-manner
-correspond
-notwithstanding
-resemblance
-contrary
-vivacity
-pavement
+- manner
+- correspond
+- notwithstanding
+- resemblance
+- contrary
+- vivacity
+- pavement
+- retain
+- appearance
+- restrained
+- variation
+- prefer
+- diabetes
+- night owls - stay up late and active at night 
+- early bird
+- chronic
+- prone to

@@ -33,7 +33,7 @@ L4 protocol checksum error ใน encap data
 **options**
 0-320 bits
 
-MTU(maximum transmission unit)=1500 bytes
+MTU(**M**aximum **T**ransmission **U**nit)=1500 bytes
 
 # เพิ่มเติม
 Padding ใน options ถ้า data ยาวไม่พอที่จะหาร 4 ลงตัว จะเติม 0 เพื่อให้จบที่ 32-bit boundary

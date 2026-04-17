@@ -11,11 +11,12 @@ RFC 791 = "internet protocol"
 ![[p3.1.png]]
 Content layer -> Recipient Layer -> Address Layer -> Local Delivery Layer -> Infra Layer
 
-application layer - คุยผ่าน app
-transport layer - คุยผ่าน port (end-to-end)
-internet layer - คุยผ่าน IP address กับ routers (end-to-end) 
-local network layer - คุยผ่าน MAC กับ switch (hop-to-hop)
-physical layer - คุยผ่านสาย, fiber optic, ไร้สาย
+
+**application layer** - คุยผ่าน app
+**transport layer** - คุยผ่าน port (end-to-end)
+**internet layer** - คุยผ่าน IP address กับ routers (end-to-end) 
+**local network layer** - คุยผ่าน MAC กับ switch (hop-to-hop)
+**physical layer** - คุยผ่านสาย, fiber optic, ไร้สาย
 
 ### layer 2: local network layer
 hop to hop นับได้จาก host to router, router to router
