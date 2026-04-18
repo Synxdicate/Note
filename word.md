@@ -2,16 +2,17 @@
 - correspond
 - notwithstanding
 - resemblance
-- contrary
+- contrary - the opposite
 - vivacity
 - pavement
 - retain
-- appearance
+- appearance - look
 - restrained
 - variation
 - prefer
-- diabetes
+- diabetes - disease about high sugar in blood 
 - night owls - stay up late and active at night 
 - early bird
 - chronic
-- prone to
+- prone to - follow by ***something bad*** about personality or disease
+- Decoration

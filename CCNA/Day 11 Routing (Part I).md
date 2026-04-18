@@ -10,7 +10,7 @@ instruction:
 
 C-connected = network อย่างถ้า router รู้จัก network วงนี้จะส่งไปที่ interface นี้ ส่งตรง "net วงนี้อยู่ที่ interface นี้ ให้ส่งมานี่เลย"
 L-local route = IP address ของ router ใน interface นั้น ๆ `/32` ก็แปลว่า fix  
-![[CCNA/images/p11.1.png|546]]
+![[p11.1.1.png|546]]
 จะเก็บ 2 route ไว้
 
 ถ้าใช้ `no shut` แล้ว C กับ L จะ route ให้เลย
@@ -22,3 +22,4 @@ L-local route = IP address ของ router ใน interface นั้น ๆ `/
 ต่างกับ switch จะ flood
 ## commands
 `show ip route`
+`ip route [net dest] [subnet mask dest] [int dest router]`

@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3cfbccdb9d104b4a",
+        "id": "559d0a8f89c24f94",
         "type": "tabs",
         "children": [
           {
-            "id": "3b7642ba1a019ec4",
+            "id": "23638fef882b52ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/Day 3 Protocol.md",
+                "file": "CCNA/Day 16 VLAN (Part I).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 3 Protocol"
-            }
-          },
-          {
-            "id": "c0caaa00983f99ef",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "CCNA/images/p13.2.1.png"
-              },
-              "icon": "lucide-image",
-              "title": "p13.2.1"
+              "title": "Day 16 VLAN (Part I)"
             }
           }
         ]
@@ -65,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "class B",
+                "query": "ip route",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,44 +195,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aa29b75f6265c47a",
+  "active": "23638fef882b52ef",
   "lastOpenFiles": [
+    "CCNA/Day 14 Subnetting (Part II).md",
+    "CCNA/images/p11.1.1.png",
+    "CCNA/images/p13.2.png",
+    "CCNA/images/p13.1.png",
+    "CCNA/images/p14.4.png",
+    "CCNA/images/p14.3.png",
+    "CCNA/images/p14.2.png",
+    "CCNA/images/p14.1.png",
+    "CCNA/Day 15 Subnetting (Part III).md",
+    "CCNA/Day 16 VLAN (Part I).md",
+    "CCNA/images/p16.1.png",
+    "CCNA/Day 11 Routing (Part I).md",
+    "CCNA/CCNA.md",
     "CCNA/Day 4 Cisco IOS CLI.md",
-    "CCNA/images/p3.1.png",
-    "CCNA/images/p13.1.1.png",
-    "CCNA/images/p13.1.2.png",
-    "CCNA/Day 13 Subnetting (Part I).md",
-    "CCNA/Day 13 Subnetting (Part II).md",
-    "CCNA/images/p13.2.4.png",
-    "CCNA/images/p13.2.3.png",
-    "CCNA/Day 13 Subnetting (Part III).md",
-    "CCNA/images/p13.2.2.png",
-    "CCNA/images/p13.2.1.png",
-    "CCNA/Intro.md",
     "word.md",
+    "README.md",
+    "Notes/ChaCha.md",
+    "Notes/Book of Proof.md",
+    "CCNA/Day 3 Protocol.md",
+    "CCNA/images/p3.1.png",
+    "CCNA/Day 13 Subnetting (Part I).md",
+    "CCNA/Intro.md",
     "Notes/fundamental/Mathematics for Computer Science.md",
     "Notes/fundamental/quantum physic & quantum computing.md",
     "Notes/fundamental/English.md",
     "CCNA/Day 7 IPv4 Addressing (Part I).md",
     "Notes/Ultralearning.md",
-    "Notes/ChaCha.md",
-    "Notes/Book of Proof.md",
     "Notes/fundamental/Electronic Engineer.md",
-    "CCNA/CCNA.md",
-    "CCNA/Day 3 Protocol.md",
     "CCNA/Day 5&6 Ethernet LAN Switching.md",
     "CCNA/Day 8 IPv4 Addressing (Part II).md",
     "CCNA/Day 9 Switch Interfaces.md",
     "CCNA/Day 10 IPv4 Header.md",
     "CCNA/Day 11 Routing (Part II).md",
-    "CCNA/Day 11 Routing (Part I).md",
     "CCNA/images/p11.2.1.png",
-    "CCNA/images/p11.2.2.png",
-    "CCNA/images/p11.1.png",
     "Untitled.base",
     "Excalidraw/IPv4 Addressing.md",
-    "README.md",
-    "Chat/road to quant.md",
     "Notes/fundamental"
   ]
 }

@@ -1,5 +1,5 @@
 # Subnetting (Part I)
-![[p13.1.1.png]]
+![[p13.1.png]]
 ทางแก้ปัญหาใช้ IP address เปลืองคือใช้ CIDR
 
 ## CIDR
@@ -25,4 +25,4 @@ CIDR Notation
 ```
 
 แล้วแต่จะ optimize มันยังไงว่าจะให้ network ใหญ่เพื่อให้เหลือ host น้อย จะได้ไม่เปลือง host ที่ไม่ได้ใช้
-![[p13.1.2.png]]
+![[p13.2.png]]
