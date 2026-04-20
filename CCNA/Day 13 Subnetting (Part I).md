@@ -3,17 +3,21 @@
 ทางแก้ปัญหาใช้ IP address เปลืองคือใช้ CIDR
 
 ## CIDR
-classless inter-domain routing
+**classless inter-domain routing**
+คือไม่สนคลาส จากเดิมที่เป็น classful networking จะได้ไม่เปลืองเลข IP ที่ไม่ได้ใช้
+```
 class A = /8
 class B = /16
 class C = /24
+```
+จากเดิมที่เขียนในรูป dotted decimal อย่าง `255.255.255.0` เป็น `/n`
 
 ถ้าอยากย่อยเองก็ 
 $$32-n$$
 เมื่อ n = /n
 
+**CIDR Notation**
 ```
-CIDR Notation
 255.255.255.128 = /25 = 126
 255.255.255.192 = /26 = 62
 255.255.255.224 = /27 = 30

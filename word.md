@@ -12,7 +12,8 @@
 - prefer
 - diabetes - disease about high sugar in blood 
 - night owls - stay up late and active at night 
-- early bird
-- chronic
+- early bird - early wake up
+- chronic - pain too long
 - prone to - follow by ***something bad*** about personality or disease
 - Decoration
+- insist - not refuse
