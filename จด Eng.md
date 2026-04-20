@@ -1,1 +1,0 @@
-action verb ใช้กับ do/does
