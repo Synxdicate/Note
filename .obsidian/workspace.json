@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap_Eng/จด.md",
-                "mode": "source",
+                "file": "roadmap_Eng/1-120 day/Day 3.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "จด"
+              "title": "Day 3"
             }
           },
           {
@@ -34,8 +34,21 @@
               "icon": "lucide-file",
               "title": "Day 1"
             }
+          },
+          {
+            "id": "3c92f625f4eb593f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/p_จด.1.png"
+              },
+              "icon": "lucide-image",
+              "title": "p_จด.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,38 +222,38 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "23638fef882b52ef",
+  "active": "aa29b75f6265c47a",
   "lastOpenFiles": [
-    "roadmap_Eng/1-120 day/Day 1.md",
+    "roadmap_Eng/จด.md",
+    "CCNA/images/p17.2.png",
+    "CCNA/Day 17 VLAN (Part II).md",
+    "CCNA/images/p17.1.png",
+    "CCNA/Day 15 Subnetting (Part III).md",
+    "CCNA/Day 14 Subnetting (Part II).md",
+    "CCNA/Day 16 VLAN (Part I).md",
+    "CCNA/Drawing 2026-04-19 13.35.58.excalidraw.md",
+    "images/p_จด.1.png",
     "roadmap_Eng/1-120 day/Day 3.md",
+    "roadmap_Eng/1-120 day/Day 2.md",
+    "roadmap_Eng/1-120 day/Day 1.md",
     "Notes/(อว ๑๑) อภิปรัชญาของเดส์การ์ตส์ สมภาร พรมทา.md",
     "Notes/Philosophy.md",
     "Notes/Book of Proof.md",
     "Notes/เก่งได้ทุกอย่าง -- เมื่อผมปลดล็อก Skill ระดับเทพผ่านหนังสือเรียนฟิสิกส์.md",
     "Notes/ChaCha.md",
-    "roadmap_Eng/จด.md",
-    "roadmap_Eng/1-120 day/Day 2.md",
     "images/Quant Roadmap1.1.png",
-    "Pasted image 20260419125921.png",
-    "Pasted image 20260419130545.png",
     "CCNA/Day 13 Subnetting (Part I).md",
     "roadmap_Eng/1-120 day",
     "roadmap_Eng",
     "word.md",
     "Think.md",
-    "CCNA/Drawing 2026-04-19 13.35.58.excalidraw.md",
     "CCNA/Day 11 Routing (Part I).md",
-    "CCNA/Day 15 Subnetting (Part III).md",
-    "CCNA/Day 17 VLAN (Part II).md",
-    "CCNA/Day 16 VLAN (Part I).md",
-    "CCNA/Day 14 Subnetting (Part II).md",
     "CCNA/images/p11.1.1.png",
     "CCNA/images/p13.2.png",
     "CCNA/images/p13.1.png",
     "CCNA/images/p14.4.png",
     "CCNA/images/p14.3.png",
     "CCNA/images/p14.2.png",
-    "CCNA/images/p14.1.png",
     "CCNA/CCNA.md",
     "CCNA/Day 4 Cisco IOS CLI.md",
     "README.md",
@@ -248,7 +261,6 @@
     "CCNA/Intro.md",
     "Notes/fundamental/Mathematics for Computer Science.md",
     "Notes/fundamental/quantum physic & quantum computing.md",
-    "Notes/fundamental/English.md",
     "Untitled.base",
     "Notes/fundamental"
   ]
