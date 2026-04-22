@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap_Eng/1-120 day/Day 1.md",
-                "mode": "preview",
+                "file": "roadmap_Eng/1-120 day/Day 3.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1"
+              "title": "Day 3"
             }
           },
           {
@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,8 +222,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "aa29b75f6265c47a",
+  "active": "3320ec126e1208aa",
   "lastOpenFiles": [
+    "roadmap_Eng/1-120 day/Day 4.md",
+    "roadmap_Eng/1-120 day/Day 1.md",
+    "images/p_จด.1.png",
     "roadmap_Eng/จด.md",
     "CCNA/images/p17.2.png",
     "CCNA/Day 17 VLAN (Part II).md",
@@ -232,10 +235,8 @@
     "CCNA/Day 14 Subnetting (Part II).md",
     "CCNA/Day 16 VLAN (Part I).md",
     "CCNA/Drawing 2026-04-19 13.35.58.excalidraw.md",
-    "images/p_จด.1.png",
     "roadmap_Eng/1-120 day/Day 3.md",
     "roadmap_Eng/1-120 day/Day 2.md",
-    "roadmap_Eng/1-120 day/Day 1.md",
     "Notes/(อว ๑๑) อภิปรัชญาของเดส์การ์ตส์ สมภาร พรมทา.md",
     "Notes/Philosophy.md",
     "Notes/Book of Proof.md",
