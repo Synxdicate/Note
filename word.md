@@ -1,3 +1,4 @@
+# Words
 - manner
 - correspond
 - notwithstanding
@@ -6,7 +7,7 @@
 - vivacity
 - pavement
 - retain
-- appearance - look
+- appearance - looks
 - restrained
 - variation
 - prefer
@@ -16,4 +17,39 @@
 - chronic - pain too long
 - prone to - follow by ***something bad*** about personality or disease
 - Decoration
-- insist - not refuse
+- insist - not refuse ยืนหยัด
+- stools เก้าอี้เล็ก
+- bug catcher
+- freezer
+- open up
+- explore
+- feels like
+- hottest
+- stained - คราบ
+- noise pollution
+- hunch - ลางสังหร
+- supported - รอง
+- poverty - poor
+- groceries ของชำ
+- decade - 10ปี,20,30
+- zip tie
+- plastic bag
+- skewer - ไม้เสียบ
+- burned - ไหม้เกรียม
+- texture - ลักษณะพื้นผิว
+- to dip จิ้ม
+- choose
+- see through
+- peel the tape off
+- plastic lid ฝาพลาสติก
+- cutlery เครื่องมือใช้รับประทาน
+- aftertaste
+- slightly ... 
+- last
+- sleeve แขนเสื้อตรงยาว ๆ
+- savory
+# Idiom
+- nothing to write home about (idiom) - not very special or impress เฉยๆ 
+- Straight from the horse's mouth
+- apple of my eye - แก้วตาดวงใจ
+- once in a blue moon - เกิดไม่บ่อย นาน ๆ ที
