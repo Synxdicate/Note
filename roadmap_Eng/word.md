@@ -45,9 +45,58 @@
 - cutlery เครื่องมือใช้รับประทาน
 - aftertaste
 - slightly ... 
-- last
+- last ท้าย
 - sleeve แขนเสื้อตรงยาว ๆ
 - savory
+- fare
+- stalls
+- the reins
+- colonial - เกี่ยวข้องกับอาณานิคม
+- eroded
+- barred - กรงเหล็กหน้าต่าง
+- reminds me of - ทำให้นึกถึง
+- couple - คู่
+- paw - อุ้งเท้า
+- public holiday - วันหยุดราชการ
+- about - apploximately
+- fountain - น้ำพุ
+- testimony
+- legit
+- patio
+- fence
+- lift it out
+- pound - ตอก
+- tame เชื่อง
+- vibrant สีสด
+- faded จาง
+- cow and calf
+- chase out
+- scratching
+- pail
+- fire pit
+- ash
+- gazebo
+- ceiling
+- Aerosol cans
+- pedal and pegs
+- what's your favourite fruit to pick?
+- raised bed - เป็น garden ที่สูงเทียมอก It's like a garden but standing on the ground for easier pick 
+- knotted up
+- hose
+- well (water) บาดาล
+- flock a group of birds
+- water dispenser
+- fill up (v.)
+- mug and handle 
+- carton
+- door handle
+- door knob -> twist (v.)
+- cushion
+- plant pot
+- bell
+- chopsticks
+- rough seas
+- 
 # Idiom
 - nothing to write home about (idiom) - not very special or impress เฉยๆ 
 - Straight from the horse's mouth

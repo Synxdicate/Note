@@ -15,6 +15,9 @@
 - [[Day 13 Subnetting (Part I)]]
 - [[Day 14 Subnetting (Part II)]]
 - [[Day 15 Subnetting (Part III)]]
+- [[Day 16 VLAN (Part I)]]
+- [[Day 17 VLAN (Part II)]]
+- 
 ---
 **Excalidraw**
 [[IPv4 Addressing]]
