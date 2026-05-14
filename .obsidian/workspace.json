@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap_Eng/จด.md",
-                "mode": "source",
+                "file": "roadmap_Eng/1-120 day/Day 6.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "จด"
+              "title": "Day 6"
             }
           },
           {
-            "id": "3320ec126e1208aa",
+            "id": "3c92f625f4eb593f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,45 +34,9 @@
               "icon": "lucide-file",
               "title": "word"
             }
-          },
-          {
-            "id": "3c92f625f4eb593f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/p_จด.1.png"
-              },
-              "icon": "lucide-image",
-              "title": "p_จด.1"
-            }
-          },
-          {
-            "id": "c4e3282214e9ab1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roadmap_Eng/จด.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "จด"
-            }
-          },
-          {
-            "id": "d7e3de377885999f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,26 +210,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d7e3de377885999f",
+  "active": "3c92f625f4eb593f",
   "lastOpenFiles": [
-    "roadmap_Eng/word.md",
+    "roadmap_Eng/1-120 day/Day 11.md",
     "roadmap_Eng/1-120 day/Day 10.md",
-    "roadmap_Eng/1-120 day/Day 9.md",
-    "CCNA/Day 3 Protocol.md",
-    "CCNA/CCNA.md",
-    "roadmap_Eng/1-120 day/Day 6.md",
     "roadmap_Eng/จด.md",
-    "README.md",
-    "Think.md",
-    "roadmap_Eng/1-120 day/Day 7.md",
+    "roadmap_Eng/word.md",
+    "images/p_จด.1.png",
+    "word.md",
+    "roadmap_Eng/1-120 day/Day 9.md",
     "roadmap_Eng/1-120 day/Day 8.md",
+    "roadmap_Eng/1-120 day/Day 7.md",
+    "roadmap_Eng/1-120 day/Day 6.md",
     "roadmap_Eng/1-120 day/Day 3.md",
+    "Think.md",
     "roadmap_Eng/1-120 day/Day 5.md",
     "p_จด.3.png",
     "p_จด.2.png",
     "roadmap_Eng/1-120 day/Day 4.md",
     "roadmap_Eng/1-120 day/Day 1.md",
-    "images/p_จด.1.png",
     "CCNA/images/p17.2.png",
     "CCNA/Day 17 VLAN (Part II).md",
     "CCNA/images/p17.1.png",
@@ -280,6 +243,7 @@
     "Notes/เก่งได้ทุกอย่าง -- เมื่อผมปลดล็อก Skill ระดับเทพผ่านหนังสือเรียนฟิสิกส์.md",
     "Notes/ChaCha.md",
     "images/Quant Roadmap1.1.png",
+    "CCNA/Day 13 Subnetting (Part I).md",
     "roadmap_Eng/1-120 day",
     "roadmap_Eng",
     "CCNA/images/p11.1.1.png",

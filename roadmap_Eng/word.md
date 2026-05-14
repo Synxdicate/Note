@@ -96,7 +96,31 @@
 - bell
 - chopsticks
 - rough seas
-- 
+- paddle board
+- propane torch
+- tripod
+- floss
+- take a walk
+- jog - gentle run
+- stroll - gentle walk
+- bucket vs pail
+- have a piss/wee/pee
+- pumping
+- rinse off
+- peel - ปลอก
+- slice 
+- dice - ตัดเป็นก้อนเล็กๆสี่เหลี่ยม
+- goose -> geese
+- stable
+- mane -> horse
+- stallion -> male horse
+- mare -> female horse
+- foal -> baby horse
+- steering wheel
+- gear stick
+- frisbee
+- blowtorch
+- optimistic
 # Idiom
 - nothing to write home about (idiom) - not very special or impress เฉยๆ 
 - Straight from the horse's mouth
