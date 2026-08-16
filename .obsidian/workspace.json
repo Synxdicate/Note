@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap_Eng/1-120 day/Day 6.md",
-                "mode": "preview",
+                "file": "CCNP/Layer 2 Forwarding.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 6"
+              "title": "Layer 2 Forwarding"
             }
           },
           {
@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap_Eng/word.md",
+                "file": "CCNA/Day 16 VLAN (Part I).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "word"
+              "title": "Day 16 VLAN (Part I)"
+            }
+          },
+          {
+            "id": "f7e535368e0d2ddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chat/Quant Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quant Roadmap"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -210,18 +226,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3c92f625f4eb593f",
+  "active": "f7e535368e0d2ddd",
   "lastOpenFiles": [
+    "CCNP/STP.md",
+    "Pasted image 20260816175317.png",
+    "Pasted image 20260816150541.png",
+    "CCNP/CCNP.md",
+    "CCNA/Day 16 VLAN (Part I).md",
+    "CCNP/Layer 2 Forwarding.md",
+    "DayZer0.md",
+    "roadmap_Eng/1-120 day/Day 6.md",
+    "CCNA/CCNA.md",
+    "CCNA/Day 3 Protocol.md",
+    "CCNA/Day 49 Port Security.md",
+    "CCNP",
+    "Pasted image 20260815154705.png",
+    "CCNA/Day 17 VLAN (Part II).md",
+    "roadmap_Eng/1-120 day/Day 12.md",
     "roadmap_Eng/1-120 day/Day 11.md",
+    "roadmap_Eng/word.md",
     "roadmap_Eng/1-120 day/Day 10.md",
     "roadmap_Eng/จด.md",
-    "roadmap_Eng/word.md",
     "images/p_จด.1.png",
     "word.md",
     "roadmap_Eng/1-120 day/Day 9.md",
     "roadmap_Eng/1-120 day/Day 8.md",
     "roadmap_Eng/1-120 day/Day 7.md",
-    "roadmap_Eng/1-120 day/Day 6.md",
     "roadmap_Eng/1-120 day/Day 3.md",
     "Think.md",
     "roadmap_Eng/1-120 day/Day 5.md",
@@ -230,26 +260,12 @@
     "roadmap_Eng/1-120 day/Day 4.md",
     "roadmap_Eng/1-120 day/Day 1.md",
     "CCNA/images/p17.2.png",
-    "CCNA/Day 17 VLAN (Part II).md",
     "CCNA/images/p17.1.png",
     "CCNA/Day 15 Subnetting (Part III).md",
-    "CCNA/Day 14 Subnetting (Part II).md",
-    "CCNA/Day 16 VLAN (Part I).md",
-    "CCNA/Drawing 2026-04-19 13.35.58.excalidraw.md",
-    "roadmap_Eng/1-120 day/Day 2.md",
-    "Notes/(อว ๑๑) อภิปรัชญาของเดส์การ์ตส์ สมภาร พรมทา.md",
-    "Notes/Philosophy.md",
-    "Notes/Book of Proof.md",
-    "Notes/เก่งได้ทุกอย่าง -- เมื่อผมปลดล็อก Skill ระดับเทพผ่านหนังสือเรียนฟิสิกส์.md",
-    "Notes/ChaCha.md",
     "images/Quant Roadmap1.1.png",
-    "CCNA/Day 13 Subnetting (Part I).md",
     "roadmap_Eng/1-120 day",
     "roadmap_Eng",
     "CCNA/images/p11.1.1.png",
-    "CCNA/images/p13.2.png",
-    "CCNA/images/p13.1.png",
-    "CCNA/images/p14.4.png",
     "Untitled.base",
     "Notes/fundamental"
   ]
