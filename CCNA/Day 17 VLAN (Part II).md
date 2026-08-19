@@ -1,12 +1,13 @@
 # Trunk Ports
 แก้ปัญหา router มี interface ไม่พอที่จะเชื่อม VLAN
-
-trunk port = tagged ports
-access port = untagged ports
+802.1Q tagging/trunking
+**trunk port = tagged ports**
+**access port = untagged ports**
 
 **Trunking Protocol**:
 1. ISL
 2. 802.1Q
+มันจะมี port Trunk cable = Trunk port
 ![[p17.1.png]]
 มี 2 field หลัก ๆ
 - Tag Protocol Identifier (TPID) - 16 bits set เป็น `0x8100` เป็น 802.1Q
@@ -20,4 +21,9 @@ VLAN range (1-4094):
 - 1006-4094: extend VLAN
 อันเก่าบางตัวใช้ extended VLAN ไม่ได้
 
-native VLAN
+# native VLAN
+จะไม่มี tagged หรือ untagged นั่นเอง
+
+
+VXLAN
+ทำได้ 16 M virtual network

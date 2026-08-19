@@ -1,5 +1,7 @@
-collision domain
-broadcast domains
+# Collision Domains
+เวลา network device จะส่งข้อมูล แล้วส่งพร้อมกันจะเกิดการชน data collision เกี่ยวข้องกับ CSMA/CD
+collision domain คือ network segment ที่รู้ว่ามีอีก device กำลังส่งข้อมูล
+# Broadcast domains
 
 # Layer 2 Forwarding
 

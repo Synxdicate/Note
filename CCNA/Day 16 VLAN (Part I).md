@@ -22,3 +22,6 @@ VLANS-`1002-1005` = old technologies
 `switchport mode access`
 `switchport access vlan [num]`
 `show vlan brief`
+
+
+VLAN ทำงานแค่ layer 2 สูงสุด 4000 virtual network
